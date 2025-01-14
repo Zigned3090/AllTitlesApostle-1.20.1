@@ -1,0 +1,28 @@
+{
+  "type": "goety:ritual",
+  "ritual_type": "goety:summon",
+  "activation_item": {
+    "item": "goety_revelation:doom_medal"
+  },
+  "craftType": "sabbath",
+  "entity_to_summon": "goety_revelation:summon_apollyon",
+  "soulCost": 222,
+  "duration": 30,
+  "ingredients": [
+    {
+      "item": "goety:crone_hat"
+    },
+    {
+      "tag": "goety:witches_hat"
+    },
+    {
+      "item": "goety:warlock_sash"
+    },
+    {
+      "item": "goety:warlock_sash"
+    }
+  ],
+  "result": {
+    "item": "goety:jei_dummy/none"
+  }
+}

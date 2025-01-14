@@ -1,0 +1,26 @@
+{
+  "apollyon_theme_overworld": {
+    "sounds": [
+      {
+        "name": "goety_revelation:apollyon_theme_overworld",
+        "stream": true
+      }
+    ]
+  },
+  "apollyon_theme_nether": {
+    "sounds": [
+      {
+        "name": "goety_revelation:apollyon_theme_nether_phase2",
+        "stream": true
+      }
+    ]
+  },
+  "apollyon_theme_post": {
+    "sounds": [
+      {
+        "name": "goety_revelation:apollyon_theme_post",
+        "stream": true
+      }
+    ]
+  }
+}
